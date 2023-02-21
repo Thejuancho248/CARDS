@@ -1,0 +1,43 @@
+@font-face {
+    font-family: Nunito;
+    src: url(../NUNITO/static/Nunito-Medium.ttf);
+}
+
+body{
+    background-color: #edf2f8 !important;
+    font-family: Nunito;
+}
+.c1{
+    background-color:#6f42c1 !important;
+    background-image: url(../imagenes/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position-x: 80%;
+    background-size: 25%;
+    background-blend-mode: unset;
+}
+.c1-b{
+    border-color: #b99af2 !important;
+}
+.c2{
+    background-color: #49556b !important;
+}
+.c2-b{
+    border-color: gray!important;
+}
+.c3{
+background-color: #ffffff !important;
+height: 21rem;
+}
+.txt-c3{
+    color: #51555f !important;
+}
+.c4{
+    background-color: #18202d;
+    height: 21rem;
+}
+.c4-b{
+    border-color: #6f42c1 !important;
+}
+.c5{
+    background-color: #ffffff !important;
+}
